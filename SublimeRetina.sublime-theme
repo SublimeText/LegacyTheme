@@ -1,3 +1,15 @@
+// dark_selected_tab_bg.png
+// dark_tab_mask3.png
+// dark_unselected_tab_bg2.png
+// light_selected_tab_bg.png
+// light_unselected_tab_bg2.png
+// medium_dark_selected_tab_bg.png
+// medium_dark_unselected_tab_bg2.png
+// medium_selected_tab_bg.png
+// medium_unselected_tab_bg.png
+// tab_mask_152_gradient2.png
+// tab_mask_white.png
+
 [
     {
         "class": "label_control",
