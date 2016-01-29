@@ -1,0 +1,997 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Cost",
+				"Costs"
+			],
+			[
+				"OP",
+				"Operation"
+			],
+			[
+				"pl",
+				"platform"
+			],
+			[
+				"plA",
+				"PLATFORM"
+			],
+			[
+				"iter",
+				"integer"
+			],
+			[
+				"nu",
+				"number"
+			],
+			[
+				"confi",
+				"configurable"
+			],
+			[
+				"per",
+				"percentage"
+			],
+			[
+				"radon",
+				"readonly_text"
+			],
+			[
+				"tab",
+				"tabular	tabular layout"
+			],
+			[
+				"de",
+				"default"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "SublimeRetina.sublime-theme",
+			"settings":
+			{
+				"buffer_size": 31884,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/koenlageveen/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 8261,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Alan Application",
+					""
+				],
+				[
+					"Alan Config",
+					""
+				],
+				[
+					"Alan GUI",
+					""
+				]
+			],
+			[
+				"Alan GUI",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Alan Application 34",
+					""
+				],
+				[
+					"Packages/User/sublime-alan/AlanGui.sublime-build",
+					""
+				],
+				[
+					"Packages/User/sublime-alan/AlanModel.sublime-build",
+					""
+				]
+			],
+			[
+				"Alan Application 34",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/sublime-alan/Alan.sublime-build",
+					""
+				],
+				[
+					"Packages/User/sublime-alan/Alan.sublime-build",
+					"gui"
+				]
+			],
+			[
+				"Packages/User/sublime-alan/Alan.sublime-build",
+				"gui"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/sublime-alan/Alan.sublime-build",
+					""
+				],
+				[
+					"Packages/User/sublime-alan/Alan.sublime-build",
+					"gui"
+				],
+				[
+					"Packages/User/sublime-alan/Alan.sublime-build",
+					"model"
+				]
+			],
+			[
+				"Packages/User/sublime-alan/Alan.sublime-build",
+				"gui"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/sublime-alan/AlanGui.sublime-build",
+					""
+				],
+				[
+					"Packages/User/sublime-alan/AlanModel.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/sublime-alan/AlanGui.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "m",
+		"selected_items":
+		[
+			[
+				"m",
+				"View: Toggle Minimap"
+			],
+			[
+				"mi",
+				"View: Toggle Minimap"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Gr",
+				"Grunt"
+			],
+			[
+				"grun",
+				"Grunt"
+			],
+			[
+				"grunt",
+				"Grunt"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"lin",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"lint",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Package Control: Install Package"
+			],
+			[
+				"be",
+				"Javascript Beautify"
+			],
+			[
+				"uni",
+				"Permute Lines: Unique"
+			],
+			[
+				"soret",
+				"Sort Lines"
+			],
+			[
+				"un",
+				"Permute Lines: Unique"
+			],
+			[
+				"alan",
+				"Set Syntax: Alan"
+			],
+			[
+				"paclage",
+				"Package Control: Install Package"
+			],
+			[
+				"new view",
+				"File: New View into File"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"new ",
+				"File: New View into File"
+			],
+			[
+				"bea",
+				"Javascript Beautify"
+			],
+			[
+				"new v",
+				"File: New View into File"
+			],
+			[
+				"new",
+				"File: New View into File"
+			],
+			[
+				"ne",
+				"File: New View into File"
+			],
+			[
+				"n",
+				"File: New View into File"
+			],
+			[
+				"beat",
+				"Javascript Beautify"
+			],
+			[
+				"isnt",
+				"Package Control: Install Package"
+			],
+			[
+				"bookma",
+				"Bookmarks: Toggle"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/koenlageveen/Library/Application Support/Sublime Text 3/Packages/SublimeRetina"
+	],
+	"file_history":
+	[
+		"/Users/koenlageveen/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/koenlageveen/Library/Application Support/Sublime Text 3/Packages/SublimeRetina/Widgets.stTheme",
+		"/Users/koenlageveen/Library/Application Support/Sublime Text 3/Packages/User/SublimeRetina/README.md",
+		"/Users/koenlageveen/Documents/M-industries/fabric_client/client_side/lib/control_library/namespaces/common/controls/table/style.less",
+		"/Users/koenlageveen/Documents/M-industries/fabric_client/client_side/lib/control_library/theme.less",
+		"/Users/koenlageveen/Documents/M-industries/fabric_client/client_side/lib/control_library/namespaces/common/controls/text/style.less",
+		"/Users/koenlageveen/Documents/M-industries/fabric_client/client_side/lib/control_library/namespaces/common/controls/item list/style.less",
+		"/Users/koenlageveen/Documents/M-industries/stable/fabric_client/client_side/lib/generator/generateGuiDefinition.ts",
+		"/Users/koenlageveen/Documents/M-industries/stable/axa_project_fabric/fabric.sublime-project",
+		"/Users/koenlageveen/Documents/M-industries/fabric_client/gatekeeper.config",
+		"/Users/koenlageveen/Documents/M-industries/development_environment/release.sh",
+		"/Users/koenlageveen/Documents/M-industries/development_environment/ide/fabric.sublime-project",
+		"/Users/koenlageveen/Documents/M-industries/development_environment/ide/sublime/Syntaxes/alan-cf.tmLanguage",
+		"/Users/koenlageveen/Documents/M-industries/development_environment/ide/sublime/Syntaxes/alan-ui.tmLanguage",
+		"/Users/koenlageveen/Documents/M-industries/issue_tracker/systems/central_server/definition/model/application.alan",
+		"/Users/koenlageveen/Documents/M-industries/development_environment/ide/sublime/Snippets/command_number.sublime-snippet",
+		"/Users/koenlageveen/Documents/M-industries/development_environment/bootstrap/initialize_project.sh",
+		"/Users/koenlageveen/Documents/M-industries/development_environment/ide/sublime/alan-ui.tmLanguage",
+		"/Users/koenlageveen/Documents/M-industries/development_environment/Gruntfile.js",
+		"/Users/koenlageveen/Documents/M-industries/development_environment/ide/sublime/alan.tmLanguage",
+		"/Users/koenlageveen/Documents/M-industries/atom-alan/grammars/alan.cson",
+		"/Users/koenlageveen/Documents/M-industries/development_environment/ide/sublime/alan.tmPreferences",
+		"/Users/koenlageveen/Documents/M-industries/development_environment/ide/sublime/alan-cf.tmPreferences",
+		"/Users/koenlageveen/Documents/M-industries/development_environment/ide/sublime/alan-ui.tmPreferences",
+		"/Users/koenlageveen/Documents/M-industries/development_environment/ide/sublime/Syntaxes/alan.tmLanguage",
+		"/Users/koenlageveen/Documents/M-industries/development_environment/doc/index.md",
+		"/Users/koenlageveen/Documents/M-industries/development_environment/package.json",
+		"/Users/koenlageveen/Library/Application Support/Sublime Text 3/Packages/User/Markdown.sublime-settings",
+		"/Users/koenlageveen/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/koenlageveen/Library/Application Support/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/Users/koenlageveen/Library/Application Support/Sublime Text 3/Packages/User/Grunt.sublime-build",
+		"/Users/koenlageveen/Library/Application Support/Sublime Text 3/Packages/User/Grunt Widgets.sublime-build",
+		"/Users/koenlageveen/Library/Application Support/Sublime Text 3/Packages/User/Grunt Controls.sublime-build",
+		"/Users/koenlageveen/Documents/M-industries/fabric_client/dist/atom/snippets.cson",
+		"/Users/koenlageveen/Documents/M-industries/fabric_client/dist/sublime/Snippets/box.sublime-snippet",
+		"/Users/koenlageveen/Documents/M-industries/fabric_client/dist/sublime/Snippets/button_save.sublime-snippet",
+		"/Users/koenlageveen/Documents/M-industries/fabric_client/dist/sublime/Snippets/statusbar.sublime-snippet",
+		"/Users/koenlageveen/Documents/M-industries/fabric_client/dist/sublime/Snippets/about.sublime-snippet",
+		"/Users/koenlageveen/Library/Application Support/Sublime Text 3/Packages/User/sublime-alan/Snippets/clock.sublime-snippet",
+		"/Users/koenlageveen/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/koenlageveen/.jslint.conf",
+		"/Users/koenlageveen/Library/Application Support/Sublime Text 3/Packages/User/SublimeGrunt.sublime-settings",
+		"/Users/koenlageveen/Library/Application Support/Sublime Text 3/Packages/GitGutter/GitGutter.sublime-settings",
+		"/Users/koenlageveen/Library/Application Support/Sublime Text 3/Packages/User/GitGutter.sublime-settings",
+		"/Users/koenlageveen/Documents/M-industries/release/issue_tracker/data/deploy/central_server/session/init-0000000000000000.json",
+		"/private/var/folders/g_/8l9s63611qs8y0n95pqxjmh80000gn/T/6d07bba2-2745-4fdb-907d-45c12a78f27d/home/corno/websites/m-industries.com/tools/bootstrap/39/beta0/bootstrap.sh",
+		"/Users/koenlageveen/Documents/M-industries/experimental/issue_tracker/fabric.sublime-project",
+		"/Users/koenlageveen/Documents/M-industries/experimental/issue_tracker/data/deploy/central_server/session/init-0000000000000000.json",
+		"/private/var/folders/g_/8l9s63611qs8y0n95pqxjmh80000gn/T/systems_central_client_definition_gui_definition_Before_71f6c738c2c617ed57fbdb66a8715079314a14e2.alan",
+		"/Users/koenlageveen/Desktop/issue detail.alan",
+		"/Users/koenlageveen/Documents/M-industries/experimental/fabric_client/client_side/lib/control_library/namespaces/common/controls/icon/index.js",
+		"/Users/koenlageveen/Documents/M-industries/experimental/fabric_client/client_side/lib/control_library/icons.less",
+		"/Users/koenlageveen/Documents/M-industries/experimental/demo/systems/demo_client/definition/gui_definition.alan",
+		"/Users/koenlageveen/Documents/M-industries/experimental/fabric_client/client_side/lib/generator/generateGuiDefinition.js.istanbul",
+		"/Users/koenlageveen/Documents/M-industries/experimental/fabric_client/dist/widget_library.alan",
+		"/Users/koenlageveen/Documents/M-industries/experimental/models/overeem_model_central/application.alan",
+		"/Users/koenlageveen/Documents/M-industries/experimental/models/sapa_model_pmi/application.alan",
+		"/Users/koenlageveen/Documents/M-industries/experimental/axa_project_fabric/sessions/central/init-0000000000000000.json",
+		"/Users/koenlageveen/Documents/M-industries/sapa/sapa_model_pmi/application.alan",
+		"/Users/koenlageveen/Documents/M-industries/experimental/issue_tracker/systems/demo_server/definition/model/application.alan",
+		"/Users/koenlageveen/Documents/M-industries/experimental/issue_tracker/.gitignore",
+		"/Users/koenlageveen/Downloads/fontello-1b0a4f17/css/fontello.css",
+		"/Users/koenlageveen/Documents/M-industries/art/icons.md",
+		"/Users/koenlageveen/Documents/M-industries/experimental/fabric_client/dist/engine/lib/control_library/namespaces/common/controls/list/index.js",
+		"/Users/koenlageveen/Documents/M-industries/experimental/sapa_project_pmivfhungary/scripts/config.sh",
+		"/Users/koenlageveen/Documents/M-industries/experimental/sapa_project_pmivfhungary/scripts/generate_gui_definition.sh",
+		"/Users/koenlageveen/Documents/M-industries/experimental/axa_project_fabric/systems/central_client/definition/build.json",
+		"/Users/koenlageveen/Documents/M-industries/experimental/axa_project_fabric/application/build.json",
+		"/Users/koenlageveen/Documents/M-industries/experimental/overeem_project_fabric/systems/central_server/definition/build.json",
+		"/private/var/folders/g_/8l9s63611qs8y0n95pqxjmh80000gn/T/client_side_src_index_Before_84cf7a536a43bf4034c9331365600ac964caed1e.js",
+		"/private/var/folders/g_/8l9s63611qs8y0n95pqxjmh80000gn/T/client_side_lib_control_visitor_Before_7b06c016b5b59e508b9bcde44fe1d615017483f3.js",
+		"/Users/koenlageveen/Documents/M-industries/demo/scripts/generate_gui_annotations.sh",
+		"/Users/koenlageveen/Downloads/initialize_project.sh",
+		"/Users/koenlageveen/Documents/M-industries/34/mindustries_project_urenregistratie/systems/urenregistratie_client/definition/gui_annotations/annotations.alan",
+		"/private/var/folders/g_/8l9s63611qs8y0n95pqxjmh80000gn/T/gui_annotations_annotations_Before_f67201e88e5c8d1ac966e1f7961a914385ffb2af.alan",
+		"/Users/koenlageveen/Documents/M-industries/sapa_project_pmivfhungary/systems/pmi_client/definition/gui_annotations/annotations.alan",
+		"/Users/koenlageveen/Documents/M-industries/34/mindustries_project_urenregistratie/scripts/config.sh",
+		"/Users/koenlageveen/Documents/M-industries/34/mindustries_project_urenregistratie/initialize_project.sh",
+		"/Users/koenlageveen/Downloads/octicons-master/octicons.less",
+		"/Users/koenlageveen/Documents/M-industries/sapa_project_pmivfhungary/scripts/README.md",
+		"/private/var/folders/g_/8l9s63611qs8y0n95pqxjmh80000gn/T/6d07bba2-2745-4fdb-907d-45c12a78f27d/home/corno/websites/m-industries.com/tools/devenv/setup 5/.atom-build.json",
+		"/private/var/folders/g_/8l9s63611qs8y0n95pqxjmh80000gn/T/6d07bba2-2745-4fdb-907d-45c12a78f27d/home/corno/websites/m-industries.com/tools/devenv/setup 5/fabric.sublime-project",
+		"/Users/koenlageveen/Documents/M-industries/34/mindustries_project_urenregistratie/application/instance.alan",
+		"/Users/koenlageveen/Documents/M-industries/34/mindustries_project_urenregistratie/bootstrap.sh",
+		"/Users/koenlageveen/Downloads/CGIProxy-2.fcgi",
+		"/Users/koenlageveen/Downloads/CGIProxy.fcgi",
+		"/Volumes/Crypt/34/sapa_project_pmivfhungary/systems/pmi_client/definition/gui_annotations/annotations.alan",
+		"/Volumes/Crypt/34/sapa_project_pmivfhungary/systems/pmi_client/definition/gui_definition.alan",
+		"/private/var/folders/g_/8l9s63611qs8y0n95pqxjmh80000gn/T/gui_annotations_annotations_Before_85750fff572e51ce9f2b8fcd8e2572f40e8945d8.alan",
+		"/Users/koenlageveen/Desktop/gui_annotations_annotations_Before_f7355679f97959ea3549ab60a37a33e0819e30ae.alan",
+		"/private/var/folders/g_/8l9s63611qs8y0n95pqxjmh80000gn/T/gui_annotations_annotations_Before_8a5b6e427a7d80c0985c21124004e93510d5206d.alan",
+		"/private/var/folders/g_/8l9s63611qs8y0n95pqxjmh80000gn/T/gui_annotations_annotations_Before_7636b27f0d06ade6e307d25d57fc3968a07279a2.alan",
+		"/private/var/folders/g_/8l9s63611qs8y0n95pqxjmh80000gn/T/gui_annotations_annotations_Before_f7355679f97959ea3549ab60a37a33e0819e30ae.alan",
+		"/Volumes/Crypt/34/sapa_project_pmivfhungary/systems/pmi_client/definition/gui_annotations/build_info.txt",
+		"/Volumes/Crypt/34/axa_project_fabric/bootstrap.sh",
+		"/Volumes/Crypt/34/axa_project_fabric/scripts/generate-gui-annotations.sh",
+		"/Volumes/Crypt/34/mindustries_project_urenregistratie/scripts/generate_gui_annotations.sh",
+		"/Volumes/Crypt/34/mindustries_project_accounting/fabric.sublime-project",
+		"/Volumes/Crypt/34/mindustries_project_accounting/bootstrap.sh",
+		"/Volumes/Crypt/34/overeem_project_fabric/bootstrap.sh",
+		"/Users/koenlageveen/Downloads/build.sh",
+		"/Volumes/Crypt/34/mindustries_project_office/scripts/build.sh",
+		"/Volumes/Crypt/34/sapa_project_pmivfhungary/fabric.sublime-project",
+		"/Volumes/Crypt/34/mindustries_project_office/systems/accounting_server/config/config.deploy.alan",
+		"/Volumes/Crypt/34/mindustries_project_office/systems/urenregistratie_client/definition/build_info.txt",
+		"/Volumes/Crypt/34/mindustries_project_office/bootstrap.sh",
+		"/private/var/folders/g_/8l9s63611qs8y0n95pqxjmh80000gn/T/6d07bba2-2745-4fdb-907d-45c12a78f27d/home/corno/websites/m-industries.com/tools/devenv/setup 3/fabric.sublime-project",
+		"/Volumes/Crypt/34/sapa_project_pmivfhungary/scripts/README.md",
+		"/Volumes/Crypt/34/sapa_project_pmivfhungary/bootstrap.sh",
+		"/Volumes/Crypt/34/sapa_project_pmivfhungary/platform/67/alan-compiler",
+		"/Volumes/Crypt/sapa/sapa_project_pmivfhungary/systems/handheld_client/definition/model/application.alan",
+		"/Volumes/Crypt/34/sapa_project_pmivfhungary/platform/client/widget_library.alan",
+		"/Volumes/Crypt/34/sapa_project_pmivfhungary/platform/application.lang",
+		"/Volumes/Crypt/34/sapa_project_pmivfhungary/platform/client/gui_definition.lang",
+		"/Volumes/Crypt/archief/verify.sh",
+		"/Volumes/Crypt/sapa/sapa_project_pmivfhungary/verify.sh",
+		"/Volumes/Crypt/34/sapa_project_pmivfhungary/verify.sh",
+		"/Volumes/Crypt/34/sapa_project_pmivfhungary/start.sh",
+		"/Volumes/Crypt/34/sapa_project_pmivfhungary/build.sh",
+		"/Volumes/Crypt/34/sapa_project_pmivfhungary/build_dependency_graph.js",
+		"/Volumes/Crypt/sapa/sapa_project_pmivfhungary/systems/pmi_client/definition/gui_annotations/annotations.alan",
+		"/Volumes/Crypt/intern/mindustries_project_office/systems/urenregistratie_client/definition/build_info.txt",
+		"/Volumes/Crypt/intern/mindustries_project_office/bootstrap.sh",
+		"/Volumes/Crypt/sapa/sapa_project_pmivfhungary/systems/pmi_client/definition/gui_annotations/build_info.txt",
+		"/Volumes/Crypt/sapa/sapa_project_pmivfhungary/systems/handheld_client/definition/build_info.txt",
+		"/Volumes/Crypt/sapa/sapa_project_pmivfhungary/systems/pmi_client/definition/build_info.txt",
+		"/Volumes/Crypt/sapa/sapa_project_pmivfhungary/systems/vfterminal_client/definition/build_info.txt",
+		"/Volumes/Crypt/sapa/sapa_project_pmivfhungary/systems/vftv_client/definition/build_info.txt"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"application.alan",
+			"gui_definition.alan",
+			"",
+			"gui_definition.alan",
+			"",
+			"gui_definition.alan",
+			"",
+			"/Volumes/Crypt/sapa/sapa_vf_client2"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"light_unselected_tab_bg2",
+			"light_selected_tab_bg",
+			"dark_unselected_tab_bg2",
+			"dark_tab_mask3",
+			"dark_selected_tab_bg",
+			"root.*: ",
+			"root . Klanten . Licentieovereenkomsten . Periodes: ",
+			"@font-family-monospace",
+			"mono",
+			"sec",
+			">>>",
+			"gui_version",
+			"model_version",
+			"02e92a7",
+			"fabric_client_version",
+			"npm_package.env_version",
+			"env_version.split(\".\")",
+			"read",
+			"root",
+			"duplication mapping",
+			"forward",
+			"sticky",
+			"default current user",
+			"now",
+			"\\*100",
+			"\\\\*100",
+			"guid",
+			"hidden",
+			"small",
+			"multi-line",
+			"overview",
+			"entity.name.class.alan",
+			"(?",
+			"(?<=",
+			"(?",
+			"sum",
+			"trim",
+			"subtract",
+			"stringify",
+			"set",
+			"product",
+			"min",
+			"max",
+			"increment",
+			"fraction",
+			"execute",
+			"division",
+			"count",
+			"ceil",
+			"add",
+			"sumlist",
+			"add",
+			"function",
+			"pushed",
+			"\\n",
+			"\\|",
+			"|",
+			"rm -rf",
+			"invi",
+			"$SUBLIME/\"$SNAME\"",
+			"$SNAME",
+			"$(basename \"$WIDGET\")",
+			"$NAME.sublime-snippet",
+			"cson",
+			"title",
+			"Closed",
+			"closed",
+			"id -> .^ : dictionary key filter \"\" )",
+			"file' -> f",
+			"file' -> : ",
+			"'widgets' -> [ ]",
+			"Issue-Tracker Backend",
+			"\\.root.*attributes\\[(.*)\\]\\.type\\*property\\.type\\*dictionary",
+			"\\.root.*attributes\\[(Projects)\\]\\.type\\*property\\.type\\*dictionary",
+			".root.attributes[Config].type*property.type*group.node.attributes[Projects].type*property.type*dictionary",
+			"elements' -> [ ]",
+			"elements' -> [",
+			"\\(\\s*\\)",
+			"'widget' -> 'common' : 'csv import' (",
+			"'widget' -> 'common' : 'csv import' (\n								'collection' -> model query \"csv_import\" path . 'Projects' entry view 'default' maximum_amount_of_entries 30 columns\n\n								(\n								)\n								'label' -> 'Drop .CSV here'\n								'secret' -> state 'yes' (\n								)\n							)",
+			"Assigned: ",
+			"empty",
+			"widget new state",
+			"root . Issues ? Closed: Yes ? Resolution: Wrote some code: ",
+			"new group context",
+			"root . Issues ? Type: Bug ? Severity: ",
+			"root . Issues ? Type: Bug: ",
+			"Yes ? In progress right now: ",
+			"Yes: ",
+			"root . Issues ? Closed: No: ",
+			"root . Issues ? Closed: No ? Assigned: ",
+			"'root . Issues ? Closed: No ? Assigned: ",
+			"Unknown: ",
+			"Review: ",
+			"Needs information: ",
+			"Design: ",
+			"root . Issues ? Closed: No ? Action: ",
+			"Editable by: Team member",
+			"root . Issues ? Handling: Project: ",
+			"new stat",
+			"'elements' -> [ ]",
+			"role: ",
+			"'elements' -> [ ]",
+			"root . Issues: ",
+			") (",
+			"\\(\\s*\\)",
+			"root",
+			"       ",
+			"Searching",
+			"number increment",
+			"linked",
+			"~> matrix",
+			"matrix",
+			"refer",
+			"constrain",
+			"increment",
+			"command",
+			"add",
+			"1",
+			"integer add",
+			"'Production Cycles' -> integer add @ 'Cycles'",
+			"command",
+			"'Increment",
+			"command",
+			"link to",
+			"'Role Configuration'",
+			"requires",
+			"demo_client"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"|",
+			"\\n",
+			"$SUBLIME/${SNAME// /_}",
+			"\"$SNAME\"",
+			"$SNAME",
+			"$(basename \"$WIDGET\")",
+			"Resolved",
+			"Issue-Tracker",
+			"$1",
+			"( )",
+			"",
+			"( )",
+			"\\t",
+			"default_client",
+			"central_server",
+			"m-industries.com/tools",
+			"devenv",
+			"'Fabric for SAPA / PMI'",
+			"filter \"\"",
+			"$1\"$2\"",
+			"'",
+			"You can us * as a wilcard for search",
+			"Realized pcs/hr",
+			"Engineered pcs/hr",
+			"e2bb795",
+			"definition",
+			"existing_reference",
+			"..",
+			" *&",
+			"\"common\" : \"command_property_text\"",
+			"10.0.5.221",
+			"127.0.0.1",
+			"10.0.5.213",
+			"127.0.0.1",
+			"10.0.5.244",
+			"\"common\" : \"command_property_reference_selection\"",
+			"10.0.5.231",
+			"television",
+			"127.0.0.1",
+			"10.0.1.9",
+			"10.0.5.213",
+			"-> \"Fabric\"",
+			"Item Name",
+			"Locate Input Material",
+			"Register Colli",
+			"\"Fabric\"",
+			"\"Fabric",
+			"fabric-grey.svg"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/Users/koenlageveen/Library/Application Support/Sublime Text 3/Packages/SublimeRetina"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "SublimeRetina.sublime-theme",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 31884,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22418,
+								22437
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2507.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/koenlageveen/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8261,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8155,
+								8155
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 1462.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 285.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"rea",
+				"README.md"
+			],
+			[
+				"theme",
+				"client_side/lib/control_library/theme.less"
+			],
+			[
+				"tablestyle",
+				"client_side/lib/control_library/namespaces/common/controls/table/style.less"
+			],
+			[
+				"dev/generate-gui-definition/index.js",
+				"dev/generate-gui-definition/index.js"
+			],
+			[
+				"generategui",
+				"client_side/lib/generator/generateGuiDefinition.ts"
+			],
+			[
+				"ini",
+				"bootstrap/initialize_project.sh"
+			],
+			[
+				"them",
+				"client_side/lib/control_library/theme.less"
+			],
+			[
+				"gui",
+				"systems/central_client/definition/gui_definition.alan"
+			],
+			[
+				"tablesty",
+				"client_side/lib/control_library/namespaces/common/controls/table/style.less"
+			],
+			[
+				"domele",
+				"client_side/lib/widgets/dom/Dom_Element.js"
+			],
+			[
+				"modal",
+				"client_side/lib/control_library/modals.less"
+			],
+			[
+				"appl",
+				"systems/demo_server/definition/model/application.alan"
+			],
+			[
+				"ann",
+				"systems/urenregistratie_client/definition/gui_annotations/annotations.alan"
+			],
+			[
+				"custom",
+				"definition/customizations.alan"
+			],
+			[
+				"anno",
+				"systems/pmi_client/definition/gui_annotations/annotations.alan"
+			],
+			[
+				"builin",
+				"systems/urenregistratie_client/definition/build_info.txt"
+			],
+			[
+				"guide",
+				"definition/gui_definition.alan"
+			],
+			[
+				"appli",
+				"definition/model/application.alan"
+			],
+			[
+				"app",
+				"definition/model/application.alan"
+			],
+			[
+				"a",
+				"definition/gui_annotations/annotations.alan"
+			],
+			[
+				"buil",
+				"gui_definition/model/build_info.txt"
+			],
+			[
+				"bui",
+				"gui_definition/build_info.txt"
+			],
+			[
+				"customi",
+				"gui_definition/customizations.alan"
+			],
+			[
+				"applca",
+				"gui_definition/model/model/application.alan"
+			],
+			[
+				"build",
+				"gui_definition/model/build_info.txt"
+			],
+			[
+				"buildinfo",
+				"server_side/interfaces/widget_library/build_info.txt"
+			],
+			[
+				"an",
+				"gui_annotations/annotations.alan"
+			],
+			[
+				"widgeti",
+				"server_side/interfaces/widget_library/widget_implementations.alan"
+			],
+			[
+				"widget",
+				"dist/widget_library.alan"
+			],
+			[
+				"generate",
+				"generator/client_side/lib/generator/generateGuiDefinition.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 215.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
