@@ -255,6 +255,12 @@
         "color": [0, 0, 0, 255]
     },
     {
+        "class": "panel_button_control",
+        "layer0.texture": "Theme - Default/panels.png",
+        "layer0.opacity": 0.7,
+        "content_margin": [12, 8]
+    },
+    {
         "class": "disclosure_button_control",
         "layer0.texture": "SublimeRetina/arrow_right.png",
         "layer0.opacity": 1.0,
