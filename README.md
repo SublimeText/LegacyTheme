@@ -6,6 +6,6 @@ Put the files in Packages and this in your preferences:
 
 ```json
 {
-    "theme": "SublimeRetina.sublime-theme"
+    "theme": "Retina.sublime-theme",
 }
 ```
