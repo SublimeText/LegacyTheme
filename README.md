@@ -1,4 +1,4 @@
-# SublimeRetina
+# LegacyTheme
 This theme takes Sublime Text 2's default theme and recreates its graphical assets in super sharp @2x resolution for retina displays. Compatible with Sublime Text 3.0.
 
 ![](https://web.archive.org/web/20170903054554/http://www.sublimetext.com/anim/rename2_packed.png)
