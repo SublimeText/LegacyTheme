@@ -11,4 +11,4 @@ Sublime Text, it has been renamed from "Retina" to "Legacy". As a result, you
 will have to re-select it as your active theme.
 
 To do so, please open the command palette, choose "UI: Select Theme", and look
-for the "Legacy.sublime-time" option.
+for the "Legacy.sublime-theme" option.
