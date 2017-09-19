@@ -1,4 +1,4 @@
-# LegacyTheme
+# Theme - Legacy
 This theme takes Sublime Text 2's default theme and recreates its graphical assets in super sharp @2x resolution for retina displays. Compatible with Sublime Text 3.0.
 
 ![](https://i.imgur.com/kG9ZnSF.png)
