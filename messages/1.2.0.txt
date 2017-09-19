@@ -1,0 +1,14 @@
+Theme - Legacy (previously Retina)
+
+1.2.0 Rename
+-----------------------
+
+"Theme - Retina" has been transferred to the Sublime Text Package org on Github:
+https://github.com/SublimeText
+
+In addition, to signify its new role as a time-capsule for the pre-3.0 look of
+Sublime Text, it has been renamed from "Retina" to "Legacy". As a result, you
+will have to re-select it as your active theme.
+
+To do so, please open the command palette, choose "UI: Select Theme", and look
+for the "Legacy.sublime-time" option.
